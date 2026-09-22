@@ -2,8 +2,8 @@
 
 # Farm Harvest Tracker
 
-A crop harvest tracker for the both small scale and large scale farmers.
-Reads a csv file, computes totat bags harvester per crop and compares it to the set target.
+A crop harvest tracker for both small scale and large scale farmers.
+Reads farm data from a csv file, computes total bags harvester per crop and compares it to the set target.
 
 ## What It Does
 
