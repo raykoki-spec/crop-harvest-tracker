@@ -9,7 +9,7 @@ Reads farm data from a csv file, computes total bags harvester per crop and comp
 
 - Logs farm harvest data from a CSV file
 - Computes and assign the total harvested bags for each crop
--Checks if each crop surpassed the set target 
+- Checks if each crop surpassed the set target 
 - Formats a clear report
 
 ## Setup
